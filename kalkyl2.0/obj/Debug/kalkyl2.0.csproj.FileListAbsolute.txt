@@ -1,0 +1,7 @@
+C:\Users\rebec\source\repos\kalkyl2.0\kalkyl2.0\bin\Debug\kalkyl2.0.exe.config
+C:\Users\rebec\source\repos\kalkyl2.0\kalkyl2.0\bin\Debug\kalkyl2.0.exe
+C:\Users\rebec\source\repos\kalkyl2.0\kalkyl2.0\bin\Debug\kalkyl2.0.pdb
+C:\Users\rebec\source\repos\kalkyl2.0\kalkyl2.0\obj\Debug\kalkyl2.0.csprojAssemblyReference.cache
+C:\Users\rebec\source\repos\kalkyl2.0\kalkyl2.0\obj\Debug\kalkyl2.0.csproj.CoreCompileInputs.cache
+C:\Users\rebec\source\repos\kalkyl2.0\kalkyl2.0\obj\Debug\kalkyl2.0.exe
+C:\Users\rebec\source\repos\kalkyl2.0\kalkyl2.0\obj\Debug\kalkyl2.0.pdb
